@@ -10,12 +10,3 @@ version: "1.0.0"
 date-released: "2026-10-06"
 license: "MIT"
 repository-code: "https://github.com/nicolecruzreyes/KTB140-R-repro"
-preferred-citation: (pending)
-  type: article
-  authors:
-    - family-names: "[FAMILY NAME]"
-      given-names: "[GIVEN NAME]"
-  title: "[ARTICLE TITLE]"
-  journal: "[JOURNAL]"
-  year: "[YEAR]"
-  doi: "[ARTICLE DOI]"
