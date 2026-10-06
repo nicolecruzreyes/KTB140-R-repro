@@ -3,14 +3,14 @@ message: "If you use this code, please cite the article and this software."
 title: "KTB140 analysis code"
 type: software
 authors:
-  - family-names: "[FAMILY NAME]"
-    given-names: "[GIVEN NAME]"
+  - family-names: "Cruz-Reyes"
+    given-names: "Nicole"
     orcid: "https://orcid.org/[ORCID]"
 version: "1.0.0"
-date-released: "[YYYY-MM-DD]"
-license: "[LICENSE, e.g. MIT]"
-repository-code: "https://github.com/[ACCOUNT]/[REPOSITORY]"
-preferred-citation:
+date-released: "2026-10-06"
+license: "MIT"
+repository-code: "https://github.com/nicolecruzreyes/KTB140-R-repro"
+preferred-citation: (pending)
   type: article
   authors:
     - family-names: "[FAMILY NAME]"
