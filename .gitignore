@@ -1,0 +1,23 @@
+# Study data and resampling plans are not part of this repository
+data_common/
+data_cells/
+source_data/
+resampling/
+optional_source_reconstruction/
+reference/
+accepted_numeric/
+verification/
+
+# Per-donor plotting offsets (contain donor IDs) and input manifests
+config/visual_jitter.csv
+config/figure*_visual_jitter.csv
+config/*manifest*.csv
+
+# Run outputs
+outputs/
+*.rds
+
+# R / RStudio
+.Rhistory
+.RData
+.Rproj.user/
