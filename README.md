@@ -2,9 +2,9 @@
 
 R code for the statistical analyses, figures and supplementary tables in:
 
-> [AUTHORS]. [TITLE]. [JOURNAL, YEAR]. doi: [ARTICLE DOI]
+> (pending) [AUTHORS]. [TITLE]. [JOURNAL, YEAR]. doi: [ARTICLE DOI]
 
-Archived version: [ZENODO DOI]
+Archived version: (pending) [ZENODO DOI]
 
 This repository contains code only. No study data are included (see **Data availability**).
 
@@ -32,7 +32,7 @@ Code layout:
 
 ## Requirements
 
-- R (analyses were run with R 4.5.3 on macOS and reproduced with R 4.3.3 on Windows)
+- R (analyses were run with R 4.5.3 on macOS and R 4.3.3 on Windows)
 - Packages: ggplot2 (≥ 3.4.0), systemfonts, ragg, svglite, jsonlite, dplyr, sandwich, lme4,
   lmerTest, openxlsx, Cairo, pdftools, officer, zip, xml2
 - The Arial font installed locally (not bundled)
@@ -70,7 +70,7 @@ Existing output folders are never overwritten; use a new `--run-id` for each run
 
 ## Data availability
 
-[DATA AVAILABILITY STATEMENT – e.g. where and how the data can be requested.]
+Data can be provided upon reasonable request to corresponding author.
 
 The code expects the following data and supporting files, which are **not** in this repository:
 
@@ -89,4 +89,4 @@ See `CITATION.cff`. Please cite both the article and the archived code DOI.
 
 ## License
 
-[LICENSE]
+MIT
